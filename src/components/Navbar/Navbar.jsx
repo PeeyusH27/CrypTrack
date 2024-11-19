@@ -2,7 +2,7 @@ import React, { useContext } from 'react'
 import './navbar.css'
 import logo from '../../assets/logo.png'
 import signup from '../../assets/arrow_icon.png'
-import { CoinContext } from '../../context/coinContext'
+import { CoinContext } from '../../context/CoinContext'
 import { Link } from 'react-router-dom'
 
 const Navbar = () => {
